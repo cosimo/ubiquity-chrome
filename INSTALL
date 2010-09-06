@@ -1,0 +1,20 @@
+HOW TO INSTALL THIS EXTENSION
+=============================
+
+1) Install the "Dev Channel" version of Google Chrome.
+   Everyone tells you to.
+   NOT SURE THIS IS NECESSARY ANYMORE.
+
+2) Launch Chrome with the "--enable-user-scripts" flag.
+   NOT SURE THIS IS NECESSARY ANYMORE.
+
+3) Copy/Download the ubiquity-chrome.user.js file to your
+   local hard drive.
+
+4) Drag and drop the ubiquity-chrome.user.js file into your
+   Chrome window.
+
+In particular, forget all the stuff about copying the
+file in some AppData\DefaultCrap folder. It's useless.
+Half of the internet is just plain outdated :)
+
