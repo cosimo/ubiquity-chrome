@@ -1,0 +1,14 @@
+Lots of problems!
+
+* Lacks xmlHttpRequest support,
+  but GM_xmlhttprequest() should be available.
+
+* Style is less than awesome.
+
+* Clusty icon missing, since clusty was renamed.
+
+* Closing the Ubiquity window with ESC sometimes
+  can cause Chrome to crash.
+
+* Many other problems to fix I suppose...
+

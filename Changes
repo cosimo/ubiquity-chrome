@@ -1,0 +1,6 @@
+Ubiquity for Chrome - List of changes
+
+2010-09-06
+    - First version, released to the unsuspecting world.
+      Lacks Ajax capabilities, but GM_xmlhttprequest() should be there.
+

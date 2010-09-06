@@ -1,0 +1,20 @@
+----------------------------------------------
+An attempt to rewrite Firefox's Ubiquity extension
+for Google Chrome this time, using UserJS.
+----------------------------------------------
+
+Original Mozilla Ubiquity Project:
+
+  http://labs.mozilla.org/ubiquity/
+
+My previous "Ubiquity for Opera" project, from which 
+this Google Chrome port originated:
+
+  http://github.com/cosimo/ubiquity-opera/
+
+Have fun!
+
+----------------------------------------------
+Cosimo Streppone, <cosimo@cpan.org>
+First version: 06/09/2010
+
